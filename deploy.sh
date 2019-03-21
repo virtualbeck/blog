@@ -6,7 +6,8 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
-cd public
+cp -r public/* ../virtualbeck.github.io/
+cd ../virtualbeck.github.io/
 # Add changes to git.
 git add .
 
@@ -21,4 +22,4 @@ git commit -m "$msg"
 git push origin master
 
 # Come Back up to the Project Root
-cd ..
+cd ../blog
