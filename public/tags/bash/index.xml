@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bash on Mike Beck</title>
+    <title>Bash on </title>
     <link>/tags/bash/</link>
-    <description>Recent content in Bash on Mike Beck</description>
+    <description>Recent content in Bash on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
     <lastBuildDate>Thu, 27 Dec 2018 11:13:49 -0500</lastBuildDate>
     
 	<atom:link href="/tags/bash/index.xml" rel="self" type="application/rss+xml" />
