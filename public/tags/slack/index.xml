@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Slack on </title>
+    <title>Slack on Mike Beck</title>
     <link>/tags/slack/</link>
-    <description>Recent content in Slack on </description>
+    <description>Recent content in Slack on Mike Beck</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 27 Dec 2018 11:13:49 -0500</lastBuildDate>
     
 	<atom:link href="/tags/slack/index.xml" rel="self" type="application/rss+xml" />
