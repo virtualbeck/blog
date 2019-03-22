@@ -69,6 +69,7 @@ hasCJKLanguage = false
 
 # Add additional social link entries underneath
 [social]
-	facebook-square = "https://www.facebook.com/highgravityquartet"
 	twitter-square = "https://www.twitter.com/virtualbeck"
 	github-square = "https://www.github.com/virtualbeck"
+	linkedin-square = "https://www.linkedin.com/in/virtualbeck/"
+	facebook-square = "https://www.facebook.com/highgravityquartet"
