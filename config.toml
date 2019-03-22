@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/"
+baseurl = ""
 languageCode = "en"
 title = "Mike Beck"
 theme = "hugo-theme-cactus-plus"
