@@ -14,7 +14,6 @@ googleAnalytics = "your_google_analytics_id"
 
 	enableRSS = true
 	enableToc = false
-
 	enableSummary = true
 	# Set the value to true if use description in post front matter replace content summary
 	useDescriptionReplaceSummary = false
@@ -24,6 +23,8 @@ googleAnalytics = "your_google_analytics_id"
 	# Set the value to your baidu analysis code if you want to use baidu analytics
 	#baiduAnalytics = 'your_baidu_analysis_code'
 
+	enableDisqus = true
+	disqusShortname = "virtualbeck"
 	enableTwitterCard = true
 	# The url for twitter card image, default is avatar.png in static/images directory
 	twitterCardImage = ""
