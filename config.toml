@@ -4,8 +4,6 @@ languageCode = "en"
 title = "Mike Beck"
 theme = "hugo-theme-cactus-plus"
 googleAnalytics = "your_google_analytics_id"
-# Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
-hasCJKLanguage = false
 
 [params]
 	author = "virtualbeck@gmail.com"
@@ -15,12 +13,11 @@ hasCJKLanguage = false
 	twitter = "virtualbeck"
 
 	enableRSS = true
-	enableToc = true
+	enableToc = false
 
 	enableSummary = true
 	# Set the value to true if use description in post front matter replace content summary
 	useDescriptionReplaceSummary = false
-
 
 	enableGoogleAnalytics = true
 	enableBaiduAnalytics = false
@@ -49,7 +46,7 @@ hasCJKLanguage = false
 	copyright = ""
 
 	# show latest posts in single page
-	showLatestPosts = false
+	showLatestPosts = true
 	readMore = ""
 
 	# Share
