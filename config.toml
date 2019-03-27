@@ -4,6 +4,7 @@ languageCode = "en"
 title = "Mike Beck"
 theme = "hugo-theme-cactus-plus"
 googleAnalytics = "your_google_analytics_id"
+enableRobotsTXT = true
 
 [params]
 	author = "virtualbeck@gmail.com"
